@@ -227,4 +227,111 @@
 226.	MassCascade		LC-MS, KNIME	https://bitbucket.org/sbeisken/masscascadeknime/wiki/Home	
 
 
+2018-2019 Tools
+
+227.	VOCCluster	https://github.com/Yaser218/Untargeted-Metabolomics-Clustering
+228.	WiPP	https://github.com/bihealth/WiPP
+229.	autoGCMSDataAnal	http://software.tobaccodb.org/software/autogcmsdataanal 
+230.	DIMEpy	https://pypi.org/project/DIMEpy/
+231.	Trace	https://github.com/zhichaoliu2/Trace
+232.	rMSIKeyIon	https://github.com/LlucSF/rMSIKeyIon
+233.	Peakonly	https://github.com/Arseha/peakonly
+234.	HastaLaVISTA	https://github.com/jwist/hastaLaVista
+235.	MISA	http://xcmsonline.scripps.edu/
+236.	ADAPTIVE	https://www.bic.kyoto-u.ac.jp/pathway/tools/ADAPTIVE/
+237.	CFM-ID 3.0	http://cfmid3.wishartlab.com/
+238.	DeepMASS	-
+239.	DynaStI	https://dynasti.vital-it.ch/#/login
+240.	HaloSeeker 1.0	Email request: contact.haloseeker@oniris-nantes.fr
+241.	MelonnPan	https://github.com/biobakery/melonnpan
+242.	MetDNA	http://metdna.zhulab.cn/
+243.	Metwork	https://metwork.pharmacie.parisdescartes.fr/
+244.	MolNetEnhancer	https://github.com/madeleineernst/pyMolNetEnhancer
+245.	PAVE	https://github.com/xxing9703/PAVE
+246.	PyCBD	https://kuppal.shinyapps.io/pycdb/
+247.	RANCM	-
+248.	MetaboShiny	https://github.com/UMCUGenetics/MetaboShiny 
+249.	SIRIUS 4	https://bio.informatik.uni-jena.de/software/sirius/
+250.	MASST	https://proteosafe-extensions.ucsd.edu/masst/
+251.	Binner	https://binner.med.umich.edu/
+252.	Metandem	http://metandem.com/web/
+253.	DecoMetDIA	https://github.com/ZhuMSLab/DecoMetDIA
+254.	AutoTuner	https://bioconductor.org/packages/devel/bioc/html/Autotuner.html 
+255.	FBMN	https://gnps.ucsd.edu/ProteoSAFe/static/gnps-splash.jsp
+256.	R-MetaboList 2	https://cran.r-project.org/web/packages/MetaboList/index.html
+257.	Rhapso	-
+258.	SUMMIT Motif	-
+259.	ZODIAC	https://bio.informatik.uni-jena.de/software/sirius
+260.	rMSIcleanup	https://github.com/gbaquer/rMSIcleanup 
+261.	AI-SIDA	https://hanbinoh.sogang.ac.kr/hanbinoh/2179.html 
+262.	Reactomics	https://yufree.github.io/pmd/ 
+263.	CMAUP	http://bidd2.nus.edu.sg/CMAUP/
+264.	MCDB	http://www.mcdb.ca/
+265.	TMS DB	http://www.tmsdatabase.org/public/frm_Inventor.aspx
+266.	MACADAM database	macadam.toulouse.inra.fr
+267.	Exposome-Explorer 2.0	http://exposome-explorer.iarc.fr 
+268.	Citrusgreening.org	https://citrusgreening.org/ 
+269.	ZEAMAP	http://www.zeamap.com/ 
+270.	PUG-View	https://pubchemdocs.ncbi.nlm.nih.gov/pug-view
+271.	MENDA	http://menda.cqmu.edu.cn:8080/index.php 
+272.	IsoCor	https://github.com/MetaSys-LISBP/IsoCor/ 
+273.	Miso	https://github.com/YonghuiDong/Miso 
+274.	pyISOPACh	https://github.com/AberystwythSystemsBiology/pyISOPACh 
+275.	ElemCor	https://github.com/4dsoftware/elemcor 
+276.	ViMMS	https://github.com/sdrogers/vimms  
+277.	Lipid Annotation Service	http://ceumass.eps.uspceu.es/prolog_batch_advanced_search.xhtml
+278.	LipidCreator	10.5281/zenodo.3529484v 
+
+279.	lipyd	https://github.com/saezlab/lipyd
+280.	Lipid Mini-On	https://omicstools.pnnl.gov/shiny/lipid-mini-on/
+281.	LipostarMSI	https://www.molhorizon.it/software/
+282.	LipidXte	http://lipidxte.mpi-cbg.de/
+283.	Webspecmine	https://webspecmine.bio.di.uminho.pt/
+284.	MetDA	http://metda.fiehnlab.ucdavis.edu/ocpu/library/metabox/www/
+285.	NaPLeS	https://naples.naturalproducts.net/
+286.	antiSMASH 5.0	https://antismash.secondarymetabolites.org/#!/start
+287.	TOXcms	http://pattilab.wustl.edu/software/toxcms/toxcms.php  
+288.	BioNetApp	https://zenodo.org/record/2563129#.XVVay3t7mUk
+289.	FELLA	https://github.com/b2slab/FELLA
+290.	GRITS Toolbox	http://www.grits-toolbox.org/
+291.	MARMoSET	https://github.molgen.mpg.de/loosolab/MARMoSET_C
+292.	MassComp	https://github.com/iochoa/MassComp
+293.	MetFlow	http://metflow.zhulab.cn/
+294.	mzTab-M	https://github.com/HUPO-PSI/mzTab
+295.	omu	https://cran.r-project.org/web/packages/omu/vignettes/Omu_vignette.html
+296.	Metabopolis	-
+297.	pyMEAN	https://github.com/AberystwythSystemsBiology/pyMEAN
+298.	mineXpert	http://www.msxpertsuite.org/
+299.	MetaboClust	https://bitbucket.org/mjr129/metaboclust/src/master/
+300.	OpenMS	https://www.openms.de/ 
+301.	MS-LIMA	-
+302.	pyMEAN	-
+303.	genuMet	https://github.com/xyomics/genuMet
+304.	pseudoQC	https://www.omicsolution.org/wukong/pseudoQC/ 
+305.	LabPipe	https://docs.labpipe.org/ 
+306.	MetumpX	https://github.com/hasaniqbal777/MetumpX-bin
+307.	jmzTab-M	https://github.com/lifs-tools/jmzTab-m
+308.	PathBank	http://pathbank.org/
+309.	Spectrum_utils	https://github.com/bittremieux/spectrum_utils 
+310.	Aristotle Classifier	-
+311.	QUICK	-
+
+312.	Paired Omics Data Platform	http://pairedomicsdata.bioinformatics.nl/ 
+313.	CycloNovo	https://github.com/bbehsaz/cyclonovo 
+314.	CLARITE	https://github.com/HallLab/clarite 
+315.	MetaMiner https://github.com/mohimanilab/MetaMiner/blob/master/README.md  
+316.	iOmicsPASS	https://github.com/cssblab/iOmicsPASS
+317.	MetaOmGraph	http://metnetweb.gdcb.iastate.edu/MetNet_MetaOmGraph.htm
+318.	Miodin	https://gitlab.com/algoromics/miodin
+319.	MOD-Finder	https://webapp.ufz.de/mod_finder
+320.	Pixel	https://github.com/Candihub/pixel
+321.	The MultiOmics Explainer	http://bioinformatics.ai.sri.com/ptools/ 
+322.	trackViewer	https://bioconductor.org/packages/release/bioc/html/trackViewer.html
+323.	WIlsON	https://cran.r-project.org/web/packages/wilson/
+324.	MOBN	http://multiomics.inetmodels.com/
+325.	INDEED	https://bioconductor.org/packages/release/bioc/html/INDEED.html
+326.	MetaboVerse	https://github.com/Metaboverse/Metaboverse 
+327.	M2IA	http://m2ia.met-bioinformatics.cn/
+
+
 #End
